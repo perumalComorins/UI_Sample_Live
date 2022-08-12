@@ -1,0 +1,197 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.rest-padding{
+    padding: 0 !important;
+}
+.rest-margin{
+    margin: 0 !important;
+}
+.container-1240{
+    width: 1240vh;
+    max-width: 100%;
+}
+body{
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
+header{
+    background: url(../images/1172\ [Converted]-01\ 2.png);
+    mix-blend-mode: normal;
+    padding-bottom: 100px;
+}
+.site-logo{
+    padding-right: 125px;
+}
+.nav-section{
+    padding-left: 322px;
+}
+.site-navigation ul.navbar-nav li {
+    padding: 0 48.3px 0 0;
+}
+.site-navigation ul.navbar-nav li:last-child{
+    padding: 0px;
+}
+.site-navigation ul.navbar-nav li a.nav-link {
+    color: #005579;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    padding: 0;
+}
+.main-nav ul li:hover > ul {
+    visibility:visible;
+    opacity: 1;
+}
+.main-nav ul.navbar-nav li.lang-item ul.sub-menu:before{
+    background: #FFFFFF;
+    opacity: 0.9;
+    right:9px;
+    box-shadow: -2px -2px 3px rgb(0 0 0 / 25%);
+  }
+  .site-navigation .main-nav ul.navbar-nav li.lang-item ul.sub-menu li a.nav-link{
+    padding:2px 0 2px 16px;
+    color: #878787 !important;
+  }
+  .site-navigation .main-nav ul.navbar-nav li.lang-item ul.sub-menu li:hover a{
+    background: #E8F5F9;
+  }
+  .site-navigation ul.navbar-nav li ul.sub-menu li a.nav-link {
+    padding: 10px 15px 10px 15px;
+    font-family: 'futura_bk_btbook';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffffff!important;
+    padding: 0;
+}
+.site-navigation ul.navbar-nav li ul.sub-menu li a.nav-link:after {
+    content: "";
+    display: block;
+    width: 60%;
+    padding-top: 2.5px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    transition: .5s;
+    position: relative;
+    right: 5px;
+}
+.main-nav ul ul {
+    text-align: left;
+    position: absolute;
+    top: calc(100% + 10px) !important;
+    z-index: 9;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.2s ease-in;
+    width: 170px;
+    padding: 0px 0px 0px 0px;
+    border-width: 5px 0px 0px 0px;
+    border-style: none;
+    border-color: rgba(255, 255, 255, 0);
+    border-radius: 4px;
+    background: #3EBDCC;
+    padding: 24px 0 29px 22px;
+}
+.main-nav ul.navbar-nav ul.sub-menu:before {
+    position: absolute;
+    content: '';
+    height: 12px;
+    width: 12px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    top: -6px;
+    background: #3EBDCC;
+}
+.main-nav ul ul.sub-menu li {
+    border-width: 0px 0px 0px 0px;
+    border-style: none;
+    border-color: #ebebeb;
+    padding: 0 0 7.5px 0;
+}
+.site-navigation ul.navbar-nav li ul.sub-menu li {
+    list-style: none;
+}
+
+.site-navigation ul.navbar-nav li ul.sub-menu li a.nav-link:hover:after {
+    width: 75%;
+}
+.site-navigation ul.navbar-nav li:hover ul.sub-menu li a.nav-link{
+    color:#ffffff;
+}
+.site-navigation ul.navbar-nav li ul.sub-menu li:hover a{
+    color:#ffffff!important;
+}
+
+.site-navigation ul.navbar-nav li ul.sub-menu li {
+    list-style: none;
+}
+
+
+
+.content-top{
+    margin-top: 70px;
+}
+.content-text {
+     padding-top: 10vh;
+
+}
+.content-img{
+    padding-top: 50px;
+}
+.content-text h2{
+    max-width: 500px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    color: #005579;
+}
+.content-text p{
+    width: 65%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: 'robotolight';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+    color: #005579;
+}
+.content-text button{
+    padding: 10px 125px;
+    background: #3EBDCC;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.img-1{
+    width: 450px;
+    position: absolute;
+    margin-left: 60px;
+    top: 65px;
+}
+.img-2{
+    width: 320px;
+    position: absolute;
+    left: 260px;
+    top: 0px;
+}
+.img-3{
+    width: 320px;
+    position: relative;
+    top: 40px;
+    right: 10px
+}
