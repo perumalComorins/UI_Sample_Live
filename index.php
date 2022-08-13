@@ -13,6 +13,7 @@
 </head>
 <body>
     <?php include 'includes/header.php'; ?>
+    <?php include 'includes/footer-heighlighted.php'; ?>
     <?php include 'includes/footer.php'; ?>
 </body>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
