@@ -5,7 +5,7 @@
             <h4>Wishing to create something for yourself?</h4>
             <p>We help you get a boost towards your vision which you have created for your business. </p>
          </div>
-         <div class="col-4 align-self-center reset-padding">
+         <div class="col-4 align-self-center btn-box reset-padding">
              <a href="" class="btn-link">Make a wish</a>
          </div>
       </div>
