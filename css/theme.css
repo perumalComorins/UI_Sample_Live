@@ -166,3 +166,66 @@
 
 
 /* header css end */
+/* Footer css start */
+
+footer{
+  background: #005579;
+  margin-top: 100px;
+}
+.container-1050{
+  width: 1050px;
+  max-width: 100%;
+}
+.footer-left p{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #F4A41D;
+}
+.footer-left ul{
+  list-style: none;
+  column-count: 2;
+}
+.footer-left ul li{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 20px;
+  line-height: 35px;
+  color: #FFFFFF;
+}
+.content-footer{
+  margin: 75px 0px;
+}
+.img-position img{
+   position: absolute;
+}
+.img-position i{
+  position: relative;
+  top: 10px;
+  left: 15px;
+  font-size: 45px;
+}
+.footer-right p{
+  padding-top: 50px;
+}
+.footer-right{
+  margin-top: 75px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+}
+.footer-right ul{
+  display: inline-flex;
+  list-style: none;
+}
+.footer-right ul li{
+  margin-right: 50px;
+}
+
+/* Footer css end */
