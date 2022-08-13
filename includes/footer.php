@@ -19,15 +19,15 @@
             </div>
             <div class="col-4 footer-right">
                 <span class="img-position">
-                    <img src="./Images/Vector (2).png" />
+                    <img src="images/circle.png" />
                     <i class="fa fa-whatsapp" aria-hidden="true"></i>
                 </span>
                 <p>Converge 2 Digital<br/>96, Rajendran Street, Valasarvakkam<br/>Chennai 600087<br/>Tamil Nadu, India</p>
                 <ul>
-                    <li><img src="./Images/Vector (3).png"></li>
-                    <li><img src="./Images/Vector (4).png"></li>
-                    <li><img src="./Images/Vector (5).png"></li>
-                    <li><img src="./Images/Vector (6).png"></li>
+                    <li><img src="images/facebook-icon.png"></li>
+                    <li><img src="images/camera-icon.png"></li>
+                    <li><img src="images/ball-icon.png"></li>
+                    <li><img src="images/pinterest-icon.png"></li>
                 </ul>
             </div>
         </div>

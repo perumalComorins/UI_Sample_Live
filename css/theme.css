@@ -172,12 +172,14 @@ footer{
   background: #005579;
   margin-top: 100px;
 }
+footer ul li:hover{
+  cursor: pointer;
+}
 .container-1050{
   width: 1050px;
   max-width: 100%;
 }
 .footer-left p{
-  font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -189,7 +191,6 @@ footer{
   column-count: 2;
 }
 .footer-left ul li{
-  font-family: 'Roboto';
   font-style: normal;
   font-weight: 100;
   font-size: 20px;
@@ -197,7 +198,7 @@ footer{
   color: #FFFFFF;
 }
 .content-footer{
-  margin: 75px 0px;
+  margin: 85px 0px;
 }
 .img-position img{
    position: absolute;
@@ -212,8 +213,7 @@ footer{
   padding-top: 50px;
 }
 .footer-right{
-  margin-top: 75px;
-  font-family: 'Roboto';
+  margin-top: 85px;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -225,7 +225,6 @@ footer{
   list-style: none;
 }
 .footer-right ul li{
-  margin-right: 50px;
+  margin-right: 8px;
 }
-
 /* Footer css end */
